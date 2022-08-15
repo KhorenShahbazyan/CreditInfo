@@ -1,0 +1,2 @@
+1. Fill in the appropriate data (credentials) for your database in the appsettings.json file (KhorenTest.CreditInfo.Web.Api -> appsettings.json)
+2. update-database -Context KhorenTestDbContext (Run this command in "Package Manager Console" where selected project is KhorenTest.CreditInfo.DataAccess)

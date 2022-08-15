@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Infrastructure", "00 Infrastructure", "{B949A622-35FF-41BF-8D2C-185FC24FF9D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Business Services", "01 Business Services", "{697D5BFB-A173-449C-9FF3-EA262456A892}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 DataAccess", "02 DataAccess", "{6AFFE57B-B332-4E9B-8603-C4D97121C323}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Api", "03 Api", "{765BAA13-CFCF-4ED5-8E81-9078D2CF4263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhorenTest.CreditInfo.DataAccess", "KhorenTest.CreditInfo.DataAccess\KhorenTest.CreditInfo.DataAccess.csproj", "{F244683F-CCB0-4FFB-8834-A3759B4B9181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhorenTest.CreditInfo.Web.Api", "KhorenTest.CreditInfo.Web.Api\KhorenTest.CreditInfo.Web.Api.csproj", "{D320F89B-B95C-455E-92BE-E9704834ED82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhorenTest.CreditInfo.Business", "KhorenTest.CreditInfo.Business\KhorenTest.CreditInfo.Business.csproj", "{7978832C-86A0-4B42-B90D-4CB8636048AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Readme", "Readme", "{4E607FBB-9CD8-4FE6-B1F1-0F38AB5D2052}"
+	ProjectSection(SolutionItems) = preProject
+		Migrations.txt = Migrations.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F244683F-CCB0-4FFB-8834-A3759B4B9181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F244683F-CCB0-4FFB-8834-A3759B4B9181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F244683F-CCB0-4FFB-8834-A3759B4B9181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F244683F-CCB0-4FFB-8834-A3759B4B9181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D320F89B-B95C-455E-92BE-E9704834ED82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D320F89B-B95C-455E-92BE-E9704834ED82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D320F89B-B95C-455E-92BE-E9704834ED82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D320F89B-B95C-455E-92BE-E9704834ED82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7978832C-86A0-4B42-B90D-4CB8636048AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7978832C-86A0-4B42-B90D-4CB8636048AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7978832C-86A0-4B42-B90D-4CB8636048AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7978832C-86A0-4B42-B90D-4CB8636048AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F244683F-CCB0-4FFB-8834-A3759B4B9181} = {6AFFE57B-B332-4E9B-8603-C4D97121C323}
+		{D320F89B-B95C-455E-92BE-E9704834ED82} = {765BAA13-CFCF-4ED5-8E81-9078D2CF4263}
+		{7978832C-86A0-4B42-B90D-4CB8636048AB} = {697D5BFB-A173-449C-9FF3-EA262456A892}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56CE44AE-F1B3-4749-8567-510576910460}
+	EndGlobalSection
+EndGlobal

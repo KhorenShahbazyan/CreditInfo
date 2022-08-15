@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\bin\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.deps.json
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\bin\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.dll
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\bin\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.pdb
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\bin\Debug\netcoreapp3.1\KhorenTest.CreditInfo.DataAccess.dll
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\bin\Debug\netcoreapp3.1\KhorenTest.CreditInfo.DataAccess.pdb
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.csproj.CopyComplete
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.dll
+C:\Users\Admin\Desktop\KhorenTest\KhorenTest.CreditInfo\KhorenTest.CreditInfo.Business\obj\Debug\netcoreapp3.1\KhorenTest.CreditInfo.Business.pdb
